@@ -1,0 +1,6 @@
+{
+  "name": "Crónicas Interactivas: Elige Tu Propia Aventura",
+  "description": "Aventura interactiva de ficción basada en texto con Game Master de IA en géneros Misterio, Policial/Noir, Ciencia Ficción y Fantasía.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
